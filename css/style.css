@@ -101,13 +101,16 @@ body {
   border-radius: 50%;
 }
 
-.about__title {
-  width: 447px;
-  margin-bottom: 40px;
+.about-title {
   font-style: normal;
   font-weight: 700;
   font-size: 44px;
   line-height: 60px;
+}
+
+.about__title {
+  width: 447px;
+  margin-bottom: 40px;
 }
 
 .about__position {
