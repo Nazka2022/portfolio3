@@ -81,6 +81,8 @@ body {
 }
 
 .about__container {
+  width: 855px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
@@ -102,6 +104,10 @@ body {
 .about__title {
   width: 447px;
   margin-bottom: 40px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
 }
 
 .about__position {
